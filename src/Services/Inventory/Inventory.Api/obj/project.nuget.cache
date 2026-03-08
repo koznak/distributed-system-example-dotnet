@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfHmY/SInc8=",
+  "success": true,
+  "projectFilePath": "X:\\Source\\ForMyProfile\\dotnet-microservices-demo\\distributed-system-example-dotnet\\src\\Services\\Inventory\\Inventory.Api\\Inventory.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\ablik\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
